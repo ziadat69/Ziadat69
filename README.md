@@ -13,4 +13,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadat69&show_icons=true&locale=en" alt="ziadat69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadat69&" alt="ziadat69" /></p>
-<img align="right" alt="Coding" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg">
+<img align="right" alt="Coding" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg">
