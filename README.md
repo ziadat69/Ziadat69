@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ahmad Ziadat</h1>
+<h1 align="center">I'm Ziadat</h1>
 <h3 align="center">🎓 I studied Computer Science at the Technical University Dortmund (Germany).</h3>
 
 <img align="right" alt="Coding" width="200" src="https://www.gif-maniac.com/gifs/50/49700.gif">
