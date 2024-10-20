@@ -12,7 +12,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadat69&show_icons=true&locale=en&layout=compact" alt="ziadat69" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadat69&show_icons=true&locale=en" alt="ziadat69" /></p>
+
+
+
+<p>&nbsp;<img src="https://tryhackme-badges.s3.amazonaws.com/glitch69.png" alt="Your Image Badge" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadat69&" alt="ziadat69" /></p>
 <img align="right" alt="Coding" width="50" src="https://fabianlee.org/wp-content/uploads/2017/06/ansible_logo.png">
