@@ -20,3 +20,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadat69&" alt="ziadat69" /></p>
 <img align="right" alt="Coding" width="50" src="https://fabianlee.org/wp-content/uploads/2017/06/ansible_logo.png">
 <img align="right" alt="Coding" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg">
+
+<img align="right" alt="Security+ Certification" width="60" src="https://compasstechnicaltraining.com/images/security_plus.jpg" />
+
