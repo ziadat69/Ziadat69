@@ -20,7 +20,7 @@ B.Sc. in Computer Science with specialization in IT Security, Networking, and Sy
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadat69&show_icons=true&locale=en&layout=compact" alt="ziadat69" /></p>
 
 
-
+<img align="right" alt="Coding" width="200" src="https://www.gif-maniac.com/gifs/50/49700.gif">
 
 <img align="right" alt="Coding" width="50" src="https://fabianlee.org/wp-content/uploads/2017/06/ansible_logo.png">
 <img align="right" alt="Coding" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg">
