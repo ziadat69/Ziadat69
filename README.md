@@ -1,10 +1,16 @@
-<h1 align="center">I'm Ziadat</h1>
-<h3 align="center">🎓 I studied Computer Science at the Technical University Dortmund (Germany).</h3>
 
-<img align="right" alt="Coding" width="200" src="https://www.gif-maniac.com/gifs/50/49700.gif">
 
-<p align="left">
-</p>
+
+
+
+
+
+<h1 align="center">🛡️ Welcome to the World of Cybersecurity! I'm Ziadat</h1>
+
+B.Sc. in Computer Science with specialization in IT Security, Networking, and System Administration. A self-motivated professional with expertise in securing, designing, and maintaining modern IT infrastructures.
+> 🔒 **Specializations**: IT Security (Security++), Cloud Computing (AWS, Oracle), Automation (Ansible).  
+> 🖥️ **Skills**: Linux Administration, Windows Server, Active Directory, and Network Security.  
+> 🌱 **Currently Learning**: Penetration Testing, Bug Hunting, and Red Teaming. 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,9 +21,7 @@
 
 
 
-<p>&nbsp;<img src="https://tryhackme-badges.s3.amazonaws.com/glitch69.png" alt="Your Image Badge" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadat69&" alt="ziadat69" /></p>
 <img align="right" alt="Coding" width="50" src="https://fabianlee.org/wp-content/uploads/2017/06/ansible_logo.png">
 <img align="right" alt="Coding" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg">
 
